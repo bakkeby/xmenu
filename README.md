@@ -1,5 +1,13 @@
 # XMenu
 
+---
+
+This is a fork of phillbush's [XMenu](https://github.com/phillbush/xmenu) based on an older commit
+from before a major rewrite that started back in July 2023. The aim of this fork is to keep XMenu
+"as it was" prior to the changes that made it feel like a different tool altogether.
+
+---
+
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/63266536/114306062-ffb67000-9ab0-11eb-9a10-be30eadc68b4.gif", title="demo"/>
 </p>
